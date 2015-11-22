@@ -29,4 +29,18 @@
 - [Stack Overflow](http://stackoverflow.com/) - Can ask and answer questions easily
 
 
+### Bootstrap Resources
+
+- [Bootstrap](http://getbootstrap.com/)
+- [Bootswatch](https://bootswatch.com/) - Free themes
+- [Font Awesome](https://fortawesome.github.io/Font-Awesome/) - Glyphicons
+
+
+### Other
+
+- [Animate.css](http://daneden.github.io/animate.css/) - Lets you easily animate webpages
+- [Lightbox](http://lokeshdhakar.com/projects/lightbox2/) - Creates pop up windows for images
+- [WOW](http://mynameismatthieu.com/WOW/) - Reveals animation as you scroll down the page
+
+
 
