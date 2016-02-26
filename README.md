@@ -41,6 +41,7 @@
 - [Animate.css](http://daneden.github.io/animate.css/) - Lets you easily animate webpages
 - [Lightbox](http://lokeshdhakar.com/projects/lightbox2/) - Creates pop up windows for images
 - [WOW](http://mynameismatthieu.com/WOW/) - Reveals animation as you scroll down the page
+- [X-Icon](http://www.xiconeditor.com/) - Creates Favicon
 
 
 
